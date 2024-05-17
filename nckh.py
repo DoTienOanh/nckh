@@ -1,6 +1,6 @@
 import streamlit as st
-import openai
-
+import openai 
+pip install openai==0.28
 # API key của bạn
 api_key = "sk-proj-DPu19QT1ZLHMcCzGc3fNT3BlbkFJeb6YFU7HbK8s0nFuprEu"
 
