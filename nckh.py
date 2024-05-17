@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # API key của bạn
-api_key = "sk-proj-faRQ7afDu4PlGpcUuBNFT3BlbkFJDqwvr8mAqlbjU3Gt22by"
+api_key = "sk-proj-DPu19QT1ZLHMcCzGc3fNT3BlbkFJeb6YFU7HbK8s0nFuprEu"
 
 # Cấu hình API key cho OpenAI
 openai.api_key = api_key
